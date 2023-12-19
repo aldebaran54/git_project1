@@ -1,2 +1,2 @@
 <?php
-echo "liste des fonctions";
+echo 'Liste des fonctions PHP';
